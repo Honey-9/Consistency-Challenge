@@ -1,5 +1,5 @@
 
-# DSA Quesdtions
+# DSA Questions
 
 ## Day 0
 ### Easy
