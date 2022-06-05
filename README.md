@@ -17,7 +17,7 @@
 ### Easy
 1. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 2. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-3. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+3. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 
 ## Day 3
 1. [Learned about searching]()
