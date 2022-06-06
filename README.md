@@ -23,6 +23,7 @@
 1. [Learned about searching]()
 
 ## Day 4
+### GFG
 1. [Matrix in Snake Pattern]()
 2. [Matrix Boundary Traversal]()
 3. [Transpose of a Matrix]()
@@ -30,3 +31,15 @@
 5. [Spiral Traversal of Matrix]()
 6. [Search in Row-wise and Column-wise sorted matrix]()
 7. [Median of a Row Wise Sorted Matrix Java]()
+
+## Day 5
+### Leetcode
+1. [Missing Number](https://leetcode.com/problems/missing-number/)
+2. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+3. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+4. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+5. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+6. [Set Mismatch]( https://leetcode.com/problems/set-mismatch/)
+
+
+
