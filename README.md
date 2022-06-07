@@ -41,5 +41,16 @@
 5. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 6. [Set Mismatch]( https://leetcode.com/problems/set-mismatch/)
 
+## Day 6
+### Leetcode
+1 [Celling of a number]()
+2 [Floor of a number]()
+3 [ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+4 [First and Last Position in Sorted Array]()
+
+### GfG
+1 [Find position of an element in a sorted array of infinite numbers](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
+
+
 
 
