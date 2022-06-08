@@ -49,7 +49,11 @@
 4. [First and Last Position in Sorted Array]()
 
 ### GfG
-1 [Find position of an element in a sorted array of infinite numbers](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
+1. [Find position of an element in a sorted array of infinite numbers](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
+
+## Day 7
+1. [Learned about Strings and pattern]()
+
 
 
 
