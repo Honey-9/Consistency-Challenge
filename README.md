@@ -52,8 +52,10 @@
 1. [Find position of an element in a sorted array of infinite numbers](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
 
 ## Day 7
-1. [Learned about Strings and pattern]()
+1. [Learned about Strings]()
 
+## Day 8
+1. [Learned about Patterns]()
 
 
 
