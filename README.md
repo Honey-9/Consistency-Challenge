@@ -57,6 +57,9 @@
 ## Day 8
 1. [Learned about Patterns]()
 
+## Day 9
+1. [Learned about Time Complexity]()
+
 
 
 
