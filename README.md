@@ -60,6 +60,9 @@
 ## Day 9
 1. [Learned about Time Complexity]()
 
+## Day 10
+1. [Learned about some Maths topics]()
+
 
 
 
