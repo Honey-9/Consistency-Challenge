@@ -63,6 +63,9 @@
 ## Day 10
 1. [Learned about some Maths topics]()
 
+## Day 11
+1. [Learned about Bitwise operator]()
+
 
 
 
