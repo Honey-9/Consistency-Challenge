@@ -66,6 +66,9 @@
 ## Day 11
 1. [Learned about Bitwise operator]()
 
+## Day 12
+1. [learned about Space Complexity]()
+
 
 
 
