@@ -69,6 +69,9 @@
 ## Day 12
 1. [Learned about Space Complexity]()
 
+## Day 13
+1. [Revised all the Concept learned in this week]()
+
 
 
 
