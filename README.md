@@ -86,3 +86,8 @@
 - [Digital Root]()
 - [Fibonacci Using Recursion]()
 
+## Day 16
+- [Find first set bit ]()
+- [Rightmost different bit]()
+- [Check whether K-th bit is set or not]()
+- 
