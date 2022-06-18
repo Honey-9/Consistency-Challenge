@@ -90,4 +90,12 @@
 - [Find first set bit ]()
 - [Rightmost different bit]()
 - [Check whether K-th bit is set or not]()
-- 
+
+## Day 17
+- [
+Single Element in a Sorted Array]()
+- [Find First and Last Position of Element in Sorted Array
+]()
+- [Search in Rotated Sorted Array]()
+
+
