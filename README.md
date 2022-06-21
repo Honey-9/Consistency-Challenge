@@ -104,4 +104,6 @@ Single Element in a Sorted Array]()
 ## Day 19
 - [Learned about Recursion]()
 
+## Day 20
+- [Learned about Recursion]()
 
