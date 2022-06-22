@@ -107,3 +107,6 @@ Single Element in a Sorted Array]()
 ## Day 20
 - [Learned about Recursion]()
 
+## Day 21
+- [Solved question on Recursion]()
+
