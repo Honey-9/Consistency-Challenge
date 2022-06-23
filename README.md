@@ -110,3 +110,6 @@ Single Element in a Sorted Array]()
 ## Day 21
 - [Solved question on Recursion]()
 
+## Day 22
+- [Solved questions on Recursion]()
+
