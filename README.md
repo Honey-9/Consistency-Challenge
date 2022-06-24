@@ -113,3 +113,6 @@ Single Element in a Sorted Array]()
 ## Day 22
 - [Solved questions on Recursion]()
 
+## Day 23
+- [Solved question on Hashing]()
+
