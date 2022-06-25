@@ -116,3 +116,5 @@ Single Element in a Sorted Array]()
 ## Day 23
 - [Solved question on Hashing]()
 
+## Day 24
+- [Solved questions on pattern]()
