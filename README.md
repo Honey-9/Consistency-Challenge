@@ -118,3 +118,6 @@ Single Element in a Sorted Array]()
 
 ## Day 24
 - [Solved questions on pattern]()
+
+## Day 25
+- [Solved questions On pattern]()
